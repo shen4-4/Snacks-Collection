@@ -1,1 +1,1 @@
-# -Snacks-Collection
+# Snacks-Collection
